@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Rafael-Felipe-RF
-- 👀 Eu estou interessado em aprender tecnologia, para uma mudança total de área de atuação.
-- 🌱 Eu estou na faculdade de sistemas da informação.
-- 💞️ Faço vários cursos pela internet.
 
 
 <!---
